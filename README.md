@@ -1,1 +1,1 @@
-# Bootcamp of Mathematics HMATIKA ITS 2025
+# Bootcamp of Mathematics HIMATIKA ITS 2025
