@@ -19,3 +19,5 @@ data/trip_data_clean.csv
 
 # model files
 model/*.joblib
+
+submission/
